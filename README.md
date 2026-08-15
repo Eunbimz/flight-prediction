@@ -8,8 +8,8 @@ Flight delays can be influenced by various factors, including airline operations
 
 This project investigates how machine learning can be used to predict flight delays under two different scenarios:
 
-1. **Pre-Flight Prediction** — predicting whether a flight will be delayed before departure using information available prior to the flight.
-2. **Post-Departure Prediction** — predicting flight delays after the aircraft has departed by incorporating additional information available during the flight process.
+1. **Pre-Flight Prediction**, predicting whether a flight will be delayed before departure using information available prior to the flight.
+2. **Post-Departure Prediction**, predicting flight delays after the aircraft has departed by incorporating additional information available during the flight process.
 
 The project uses a large-scale flight dataset containing more than 7 million records.
 
@@ -29,7 +29,7 @@ Predict whether a flight will experience a delay before it departs.
 * XGBoost
 
 **Notebook:**
-[Open Pre-Flight Prediction in Google Colab](YOUR_PRE_FLIGHT_COLAB_LINK)
+[Open Pre-Flight Prediction in Google Colab](https://colab.research.google.com/drive/1LBxTdDRhwRgmTpPxp-JzMP0AbvCvn5RY?usp=sharing)
 
 ---
 
@@ -41,7 +41,7 @@ The second experiment explores flight delay prediction after the aircraft has al
 Predict potential flight delays using information available after departure.
 
 **Notebook:**
-[Open Post-Departure Prediction in Google Colab](YOUR_POST_DEPARTURE_COLAB_LINK)
+[Open Post-Departure Prediction in Google Colab](https://colab.research.google.com/drive/1bdSpK09TMj_gGon9hl7omdj9pxXN3vV5?usp=sharing)
 
 ## Dataset
 
@@ -105,8 +105,8 @@ The comparison between pre-flight and post-departure scenarios provides insight 
 
 | Experiment     | Description                     | Notebook                                       |
 | -------------- | ------------------------------- | ---------------------------------------------- |
-| Pre-Flight     | Predict delays before departure | [Google Colab](YOUR_PRE_FLIGHT_COLAB_LINK)     |
-| Post-Departure | Predict delays after departure  | [Google Colab](YOUR_POST_DEPARTURE_COLAB_LINK) |
+| Pre-Flight     | Predict delays before departure | [Google Colab](https://colab.research.google.com/drive/1LBxTdDRhwRgmTpPxp-JzMP0AbvCvn5RY?usp=sharing)     |
+| Post-Departure | Predict delays after departure  | [Google Colab](https://colab.research.google.com/drive/1bdSpK09TMj_gGon9hl7omdj9pxXN3vV5?usp=sharing) |
 
 ## Project Context
 
